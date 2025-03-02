@@ -3,3 +3,4 @@ python-dotenv
 yt-dlp
 youtube-search-python
 lyricsgenius
+PyNaCl
